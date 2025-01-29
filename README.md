@@ -8,10 +8,12 @@ _Compilation of repositories involved throughout my BS Comp Sci adventure_
 
 - **Fundamentals of Programming**
 
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/blob/main/Conditional%20Statements"> Conditional Statements </a>
+
 [Conditional Statements]('https://github.com/VemAiensi/Prog-course-journey/blob/main/Conditional%20Statements')
 
-  - [Input Output]('https://github.com/VemAiensi/Prog-course-journey/blob/main/Input%20and%20Output')
+- [Input Output]('https://github.com/VemAiensi/Prog-course-journey/blob/main/Input%20and%20Output')
 
-  [Switch Case Statements]('https://github.com/VemAiensi/Prog-course-journey/tree/main/Switch%20Case%20Statements')
+[Switch Case Statements]('https://github.com/VemAiensi/Prog-course-journey/tree/main/Switch%20Case%20Statements')
 
-  [Loops]('https://github.com/VemAiensi/Prog-course-journey/tree/main/loops')
+[Loops]('https://github.com/VemAiensi/Prog-course-journey/tree/main/loops')
