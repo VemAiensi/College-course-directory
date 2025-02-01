@@ -21,9 +21,6 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 ## 1st Year - 2nd Sem
 
 - **Intermediate Programming**
-  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
-  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
-  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
 - **Data Structures and Algorithm**
 
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/TicTacToe">TicTacToe</a>
