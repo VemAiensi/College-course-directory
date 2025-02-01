@@ -21,8 +21,25 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 ## 1st Year - 2nd Sem
 
 - **Intermediate Programming**
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
 - **Data Structures and Algorithm**
+
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/TicTacToe">TicTacToe</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Array/Array%20pretest">Array Catch-up</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Variable%20Manipulations/Introduction%20A">Introduction A</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Variable%20Manipulations/Introduction%20B">Introduction B</a>
+
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/BinarySearch">BinarySearch</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Queues">Queues </a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Stacks">Stacks</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Sorting%20Techniques">Sorting Techniques</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/PrimsAndKruskal">Prims & Kruskal ALgorithm</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Binary%20Tree%20Expression%20Calculator">Expression Calculator</a>
+
 - **Numerical Methods**
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
 
 ## 2nd Year - 1st Sem
 
