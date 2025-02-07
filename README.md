@@ -31,7 +31,6 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Array/Array%20pretest">Array Catch-up</a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Variable%20Manipulations/Introduction%20A">Introduction A</a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Variable%20Manipulations/Introduction%20B">Introduction B</a>
-
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/BinarySearch">BinarySearch</a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Queues">Queues </a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Stacks">Stacks</a>
