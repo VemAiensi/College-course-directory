@@ -1,5 +1,7 @@
 # My Friends are my Power
 
+> 1st Year 2nd Semester Reflection
+
 Unexpected turns have been faced, and now, it's all about continuing the journey.
 Courses became harder but still, it felt like the most convenient semester I experienced. This is the time I made not just acquaintances, but long-term friends. It truly made me feel at home, that I belong, shared laughters despite hard and mind breaking studies.
 
@@ -7,4 +9,4 @@ Honestly, I really didn't expect to make friends. I used to be a lone wolf in mo
 
 Even with the difficulties of courses we had, knowing that I'm not alone in the fight made me feel strong. I really couldn't do it without my friends. As Sora's quote from kingdom hearts, yeah I'm a kingdom hearts fan, _"My Friends Are my Power!"_ and it truly is.
 
-> I hope I can say it sometime again with the same people I'm referring to here.
+_I hope I can say it once again with the same people I'm referring to here_
