@@ -44,13 +44,18 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 ## 2nd Year - 1st Sem
 
 - **Advance Calculus**
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceCalculus">Activity Compilation</a>
 - **Discrete Structures**
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/DiscreteStructures">Activity Compilation</a>
 - **Information Management**
 
 ## 2nd Year - 2nd Sem
 
 - **Object Oriented Programming**
 - **Advance Statistics**
+
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceStatistics">Activity Compilation</a>
+
 - **Automata Theory and Formal Languages**
 - **Design and Analysis of Algorithms**
 - **Modeling and Simulation**
