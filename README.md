@@ -6,17 +6,17 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 
 - **Itroduction to Computing**
 
-  - <a href="https://github.com/VemAiensi/WebDev-Journey/tree/main/Basic%20html">Curriculum Vitae</a>
-  - <a href="https://github.com/VemAiensi/WebDev-Journey/tree/main/Forms">Forms</a>
-  - <a href="https://github.com/VemAiensi/WebDev-Journey/tree/main/Table">Tables</a>
-  - <a href="https://github.com/VemAiensi/WebDev-Journey/tree/main/Frames">Frames</a>
+  - <a href="https://github.com/VemAiensi/WebDev-Journey/tree/main/Baby_Steps/FirstCV">Curriculum Vitae</a>
+  - <a href="https://github.com/VemAiensi/WebDev-Journey/tree/main/Baby_Steps/Basics">HTML Basics</a>
+  - <a href="https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/ExcelBasics">Excel Basics</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/blob/main/Logic/Basics">Logic Gates</a>
 
 - **Fundamentals of Programming**
 
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/blob/main/Conditional%20Statements"> Conditional Statements </a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/blob/main/Input%20and%20Output">Input Output</a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Switch%20Case%20Statements">Switch Case</a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/loops">Loops</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/blob/main/ConditionalStatements"> Conditional Statements </a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/blob/main/InputOutput">Input Output</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/SwitchCaseStatements">Switch Case</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Loops">Loops</a>
 
 ## 1st Year - 2nd Sem
 
