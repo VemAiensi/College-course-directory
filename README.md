@@ -28,15 +28,15 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 - **Data Structures and Algorithm**
 
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/TicTacToe">TicTacToe</a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Array/Array%20pretest">Array Catch-up</a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Variable%20Manipulations/Introduction%20A">Introduction A</a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Variable%20Manipulations/Introduction%20B">Introduction B</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Array/ArrayPretest">Array Catch-up</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/VariableManipulations/IntroductionA">Introduction A</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/VariableManipulations/IntroductionB">Introduction B</a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/BinarySearch">BinarySearch</a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Queues">Queues </a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Stacks">Stacks</a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Sorting%20Techniques">Sorting Techniques</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/SortingTechniques">Sorting Techniques</a>
   - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/PrimsAndKruskal">Prims & Kruskal ALgorithm</a>
-  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Binary%20Tree%20Expression%20Calculator">Expression Calculator</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/BinaryTreeExpressionCalculator">Expression Calculator</a>
 
 - **Numerical Methods**
   - <a href="https://github.com/VemAiensi/All-about-math/blob/main/Numerical%20Methods">Activity Compilation </a>
@@ -45,21 +45,36 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 
 - **Advance Calculus**
   - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceCalculus">Activity Compilation</a>
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceCalculus/exercises">Exercises</a>
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceCalculus/forums">Forums</a>
 - **Discrete Structures**
   - <a href="https://github.com/VemAiensi/All-about-math/blob/main/DiscreteStructures">Activity Compilation</a>
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/DiscreteStructures/exercises">Exercises</a>
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/DiscreteStructures/forums">Forums</a>
 - **Information Management**
+  - <a href="https://github.com/VemAiensi/Information-Mgt-Journey">Repository</a>
 
 ## 2nd Year - 2nd Sem
 
 - **Object Oriented Programming**
+
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/UMLDiagrams">UML Diagrams</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Objects/GameApp">Game App</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Objects/HashMap">Hash Map</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/Objects/Exeptions">Exeptions</a>
+
 - **Advance Statistics**
-
   - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceStatistics">Activity Compilation</a>
-
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceStatistics/Activities">Activities</a>
+  - <a href="https://github.com/VemAiensi/All-about-math/blob/main/AdvanceStatistics/Forums">Forums</a>
 - **Automata Theory and Formal Languages**
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/FordFulkerson">Ford-Fulkerson Algorithm</a>
+  - <a href="https://github.com/VemAiensi/Prog-course-journey/tree/main/CFG">Context-Free Grammar</a>
 - **Design and Analysis of Algorithms**
 - **Modeling and Simulation**
 - **Networking and Communications**
+  - <a href="https://github.com/VemAiensi/WebDev-Journey/blob/main/NetworkingPlayground/documentation">Activity Compilation</a>
+  - <a href="https://github.com/VemAiensi/WebDev-Journey/blob/main/NetworkingPlayground/pktFiles">Packet Tracer Files</a>
 
 ## 3rd Year - 1st Sem
 
