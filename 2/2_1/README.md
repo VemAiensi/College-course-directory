@@ -1,4 +1,4 @@
-# Stress & Comfort
+# Yin & Yang
 
 > 2nd Year 1st Semester Reflection
 

@@ -79,11 +79,39 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 ## 3rd Year - 1st Sem
 
 - **Computer Architecture and Organzation**
-- **Free Elective 1**
+
+  - [Adapter Pattern](https://github.com/VemAiensi/Prog-course-journey/tree/main/AssemblyActivities)
+
 - **Human-Computer Interaction**
+
+  - [EducaTools](https://drive.google.com/drive/folders/1BJXctuKgBctSy8U6ETOvw-czbfCNW4sV?usp=drive_link)
+  - [3D Monitor Concept](https://drive.google.com/drive/folders/1BJXctuKgBctSy8U6ETOvw-czbfCNW4sV?usp=drive_link)
+
 - **Theory of Programming Languages**
+  - [Palindrome](https://github.com/VemAiensi/Prog-course-journey/tree/main/CodingPractice/Palindrome)
+  - [Letter Counter](https://github.com/VemAiensi/Prog-course-journey/tree/main/CodingPractice/LetterCounter)
+  - [DFA](https://github.com/VemAiensi/Prog-course-journey/tree/main/DFA)
+  - [Lexeme Analyzer/Tokenizer](https://github.com/VemAiensi/Prog-course-journey/tree/main/CodingPractice/LexemeScanner)
+  - [Semantic Analyzer](https://github.com/VemAiensi/Prog-course-journey/tree/main/SemanticAnalyzer)
 - **Software Engineering 1**
+  - [Adapter Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/adapterPattern)
+  - [Command Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/commandPattern)
+  - [Decorator Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/decoratorPattern)
+  - [Factory Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/factoryPattern)
+  - [Observer Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/observerPattern)
+  - [Singleton Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/singletonPattern)
 - **Professional Elective 1**
+
+  - [Data Analysis 1](https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/DataAnalytics/Presentation1)
+  - [Data Analysis 2](https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/DataAnalytics/Presentation2)
+  - [Data Analytics - Cisco](https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/DataAnalytics/Data-Analytics-Cisco)
+  - [Titanic - Kaggle](https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/DataAnalytics/Kaggle-Competition/Titanic-Survival-Prediction)
+  - [House Prices - Kaggle](https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/DataAnalytics/Kaggle-Competition/House-Prices)
+  - [Space Titanic - Kaggle](https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/DataAnalytics/Kaggle-Competition/Space-Titanic)
+  - [Store Sales - Kaggle](https://github.com/VemAiensi/Information-Mgt-Journey/tree/main/DataAnalytics/Kaggle-Competition/Store-Sales)
+
+- **Free Elective 1**
+  - Japanese
 
 ## 3rd Year - 2nd Sem
 
