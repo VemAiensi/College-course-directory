@@ -80,8 +80,6 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 
 - **Computer Architecture and Organzation**
 
-  - [Adapter Pattern](https://github.com/VemAiensi/Prog-course-journey/tree/main/AssemblyActivities)
-
 - **Human-Computer Interaction**
 
   - [EducaTools](https://drive.google.com/drive/folders/1BJXctuKgBctSy8U6ETOvw-czbfCNW4sV?usp=drive_link)
@@ -116,7 +114,16 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 ## 3rd Year - 2nd Sem
 
 - **Application Development**
+  - [Complete Activity List](https://github.com/VemAiensi/WebDev-Journey/blob/main/PHP)
 - **Software Engineering 2**
+
+  - [Lecture Assignments]()
+  - [Builder Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/builder-pattern)
+  - [Facade Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/facadePattern)
+  - [Solid Principles](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/solid-principles)
+  - [Strategy Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/strategy-pattern)
+  - [Visitor Pattern](https://github.com/VemAiensi/Design-Patterns-Journey/tree/main/visitor_pattern3)
+
 - **Information Assurance and Security**
 - **Inteligent Systems**
 - **Operating Systems**
