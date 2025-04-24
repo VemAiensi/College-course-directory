@@ -1,7 +1,5 @@
 # The Unexpected Turn
 
-> 1st Year 1st Semester Reflection
-
 First Year, first sem, the very start of this journey. It was a beginning that is beyond my expectations. Every feeling feels like its peek and too deep. Clearly wasn't a normal start.
 
 Would you believe that I didn't start in Computer Science? Well, I was initially an Architecture student here at New Era University. It almost broke my fingers! (No I'm just kidding). It was fun and challenging, not as smooth as butter, but I did manage to do well in class. Not to bee too shaby but, I even improved my handwriting skills. The experience was continuous until the day the Department of Science and Technology (DOST SEI) announced its scholarship awardees. It was a mixture of shock, surprise, and overjoy as we saw my name on the list. However, it did came with a cost, a cost that truly started my journey here in Computer Science.

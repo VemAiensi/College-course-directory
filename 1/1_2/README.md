@@ -1,7 +1,5 @@
 # My Friends are my Power
 
-> 1st Year 2nd Semester Reflection
-
 Unexpected turns have been faced, and now, it's all about continuing the journey.
 Courses became harder but still, it felt like the most convenient semester I experienced. This is the time I made not just acquaintances, but long-term friends. It truly made me feel at home, that I belong, shared laughter despite hard and mind breaking studies.
 

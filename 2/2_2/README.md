@@ -1,7 +1,5 @@
 # Time to go Outside!
 
-> 2nd Year 2nd Semester Reflection
-
 Ever since first year, or perhaps my grade 12 experience, the COVID19 pandemic has already took event. It’s been almost 3 years not meeting people personally. It’s been online classes and engagement is quite limited. So, by the time hybrid classes were announced, it was a mix of expectation, emotion, thoughts, and excitement.
 
 Although the hybrid modality was announced in December from the previous year, most of our program’s courses are still sticking to online classes. However, since I was able to join a choral group, I needed to participate in face-to-face rehearsals. So, by January, I started moving into the dorms. This was the first time I lived without my parents, although I was thankful enough that I have my brother live alongside me. The change in environment and atmosphere was so new to me especially for someone who lived with their parents ever since childhood. Still, thanks to my older brother, it wasn’t that hard for me to adapt as he showed me how to live here.

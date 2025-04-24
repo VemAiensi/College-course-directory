@@ -1,7 +1,5 @@
 # Yin & Yang
 
-> 2nd Year 1st Semester Reflection
-
 The first wave passed and I've managed to remain standing still. Now, moving to the middle of the war, I’m glad I was able to be ready for what’s about to come, or so I was. I grew, known a few like-minded people, and adopted to a friend group. The start seems so comfortable and I didn’t imagine these words coming from a lone-wolf student before.
 
 Now here I am, same atmosphere, same people, but different story. This part of the journey is when I thought I had improved in my social dynamics. I was able to become reliable towards my friends and build their trust in me along the way. We’ve shared the difficulties we had in our first year experiences, established deeper connection, discovered our similarities with each other and it never felt so good knowing these types of people.
