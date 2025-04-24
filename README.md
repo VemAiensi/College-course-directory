@@ -128,6 +128,7 @@ _Compilation of repositories related to common courses throughout my BS Comp Sci
 - **Inteligent Systems**
 - **Operating Systems**
 - **Professional Elective 2**
+  - [KM Project: MERRMail](https://github.com/merrmail/merrmail)
 
 ## Summer Class
 
